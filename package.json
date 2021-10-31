@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-kitas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariolazzari/puppeteer-kitas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariolazzari/puppeteer-kitas/issues"
+  },
+  "homepage": "https://github.com/mariolazzari/puppeteer-kitas#readme",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
